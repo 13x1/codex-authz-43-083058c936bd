@@ -1,0 +1,15 @@
+{
+  "name": "@13x1/codex-authz-43-083058c936bd",
+  "version": "1.0.0",
+  "description": "Disposable owned-account authorization test fixture",
+  "main": "index.js",
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/13x1/codex-authz-43-083058c936bd.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "license": "UNLICENSED"
+}
